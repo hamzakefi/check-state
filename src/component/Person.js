@@ -4,11 +4,10 @@ export default class Person extends Component {
     constructor(props){
         super(props)
         this.person={
-            FullName:"Nael",
+            FullName:"Hamza",
             Bio:"FullStackJs",
-            Profession:"Engenieer",
-            img:"https://www.careermatch.com/job-prep/wp-content/uploads/sites/2/2018/09/engineer.jpg",
-
+            Profession:"developer",
+            img:"https://tms-outsource.com/blog/wp-content/uploads/2019/05/secure-fintech-app-write-secure-code.jpg",
         }
         this.state={count:0}
     }
